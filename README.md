@@ -7,8 +7,6 @@
 
 This tutorial provides an introduction to Spatial Bayesian Statistics for Social Researchers, focusing on practical methods and applications using Indian labour force data. It is a valuable resource for those looking to incorporate spatial analysis into their social research projects.
 
-**Introduction**
-
 Spatial Bayesian statistics is a powerful tool for social researchers to analyse and model spatial relationships in their data. This tutorial will provide you with an introduction to spatial Bayesian statistics, focusing on methods relevant to social researchers. The tutorial assumes that you have some basic knowledge of statistics and data analysis. The tutorial is structured in the following way: 
 
 ## Table of Contents
